@@ -1,0 +1,4 @@
+Session ID: 84e9d539-1dbf-4446-8ea9-3ace3a2673eb
+Platform: ANDROID
+Device: emulator-5554
+App: null
