@@ -1,4 +1,0 @@
-Session ID: 1b49b29e-6c39-4c40-a22b-cbf798d1ee5f
-Platform: ANDROID
-Device: emulator-5554
-App: null
