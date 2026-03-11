@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Mobile smoke test","Create mobile session and verify app launch","0","0","1","0","0"
+"","Counter Demo Interaction","Navigate to Counter Demo and increment counter","0","0","1","0","0"
+"","Counter Demo Interaction","Verify counter starts at default value","0","0","1","0","0"
+"","Counter Demo Interaction","Increment counter multiple times and verify value","0","0","1","0","0"
+"","Framework base health check","Load base configuration","0","0","1","0","0"
