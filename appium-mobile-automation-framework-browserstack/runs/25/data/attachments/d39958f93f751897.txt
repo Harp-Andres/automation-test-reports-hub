@@ -1,0 +1,1 @@
+Verify counter starts at default value

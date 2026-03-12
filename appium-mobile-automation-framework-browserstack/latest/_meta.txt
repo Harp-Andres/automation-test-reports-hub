@@ -1,0 +1,4 @@
+source_repo=Harp-Andres/appium-mobile-automation-framework
+run_id=23027519674
+run_number=25
+published_at_utc=2026-03-12T22:48:04Z

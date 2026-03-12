@@ -1,0 +1,16 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Mar 12 22:47:44 UTC 2026","Thu Mar 12 22:47:45 UTC 2026","1668","","Mobile smoke test","","Create mobile session and verify app launch","","Create mobile session and verify app launch","  To validate connectivity with Appium
+  As a mobile QA
+  I want to start an Appium session"
+"broken","Thu Mar 12 22:47:42 UTC 2026","Thu Mar 12 22:47:44 UTC 2026","1684","","Counter Demo Interaction","","Navigate to Counter Demo and increment counter","","Navigate to Counter Demo and increment counter","  As a user of the ExpandTesting mobile app
+  I want to interact with the Counter Demo feature
+  So that I can validate the Appium automation is working correctly"
+"passed","Thu Mar 12 22:47:44 UTC 2026","Thu Mar 12 22:47:44 UTC 2026","15","","Framework base health check","","Load base configuration","","Load base configuration","  To validate the technical base
+  As an automation team
+  I want to run a quick test without device"
+"broken","Thu Mar 12 22:47:40 UTC 2026","Thu Mar 12 22:47:42 UTC 2026","1680","","Counter Demo Interaction","","Increment counter multiple times and verify value","","Increment counter multiple times and verify value","  As a user of the ExpandTesting mobile app
+  I want to interact with the Counter Demo feature
+  So that I can validate the Appium automation is working correctly"
+"broken","Thu Mar 12 22:47:38 UTC 2026","Thu Mar 12 22:47:40 UTC 2026","1866","","Counter Demo Interaction","","Verify counter starts at default value","","Verify counter starts at default value","  As a user of the ExpandTesting mobile app
+  I want to interact with the Counter Demo feature
+  So that I can validate the Appium automation is working correctly"
